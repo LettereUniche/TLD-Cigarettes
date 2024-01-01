@@ -1,14 +1,14 @@
 {
   "GAMEPLAY_Cigarette": {
-    "English": "Cigarette"
+    "English": "Cigarette",
 	  "Italian": "Sigaretta"
   },
   "GAMEPLAY_CigaretteDescription": {
-    "English": "A filtered tobacco cigarette."
+    "English": "A filtered tobacco cigarette.",
 	  "Italian": "Una sigaretta con tabacco filtrato."
   },
   "GAMEPLAY_CigaretteAction": {
-	"English": "Smoking"
+	"English": "Smoking",
 	"Italian": "Fumare"
   },
   "GAMEPLAY_CigaretteSingle": {
@@ -24,7 +24,7 @@
 	  "Italian": "Sigaretta"
   },
   "GAMEPLAY_CigaretteLuckyDescription": {
-    "English": "An unfiltered Lucky Strike cigarette. One of the rare kind."
+    "English": "An unfiltered Lucky Strike cigarette. One of the rare kind.",
 	  "Italian": "Una sigaretta di Lucky Strike non filtrata. Una dei rari tipi."
   },
   "GAMEPLAY_CigaretteLuckyAction": {
