@@ -1,68 +1,90 @@
 {
   "GAMEPLAY_Cigarette": {
     "English": "Cigarette"
+	  "Italian": "Sigaretta"
   },
   "GAMEPLAY_CigaretteDescription": {
     "English": "A filtered tobacco cigarette."
-  }
+	  "Italian": "Una sigaretta con tabacco filtrato."
+  },
   "GAMEPLAY_CigaretteAction": {
 	"English": "Smoking"
+	"Italian": "Fumare"
   },
   "GAMEPLAY_CigaretteSingle": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+	  "Italian": "Sigaretta"
   },
   "GAMEPLAY_CigaretteMultiple": {
-    "English": "Cigarettes"
+    "English": "Cigarettes",
+	  "Italian": "Sigarette"
   },
   "GAMEPLAY_CigaretteLucky": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+	  "Italian": "Sigaretta"
   },
   "GAMEPLAY_CigaretteLuckyDescription": {
     "English": "An unfiltered Lucky Strike cigarette. One of the rare kind."
-  }
+	  "Italian": "Una sigaretta di Lucky Strike non filtrata. Una dei rari tipi."
+  },
   "GAMEPLAY_CigaretteLuckyAction": {
-	"English": "Smoking"
+	"English": "Smoking",
+	  "Italian": "Fumare"
   },
   "GAMEPLAY_CigaretteLuckySingle": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+	  "Italian": "Sigaretta"
   },
   "GAMEPLAY_CigaretteLuckyMultiple": {
-    "English": "Cigarettes"
+    "English": "Cigarettes",
+	  "Italian": "Sigarette"
   },
   "GAMEPLAY_CigarettePackCamel": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+	  "Italian": "Pacchetto di sigarette"
   },
   "GAMEPLAY_CigarettePackCamelDescription": {
-    "English": "A pack of Camel cigarettes."  
+    "English": "A pack of Camel cigarettes.",
+	  "Italian": "Un pacchetto di sigarette Camel."
   },
   "GAMEPLAY_CigarettePackLucky": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+	  "Italian": "Pacchetto di sigarette"
   },
   "GAMEPLAY_CigarettePackLuckyDescription": {
-    "English": "A pack of Lucky Strike cigarettes. One of the rare kind."  
+    "English": "A pack of Lucky Strike cigarettes. One of the rare kind.",
+	  "Italian": "Un pacchetto di sigarette Lucky Strike. Una dei rari tipi."
   },
    "GAMEPLAY_CigarettePackLuckySmall": {
-    "English": "Vintage Cigarettes"
+    "English": "Vintage Cigarettes",
+	   "Italian": "Sigarette Vintage"
   },
   "GAMEPLAY_CigarettePackLuckySmallDescription": {
-    "English": "A small vintage pack of Lucky Strike cigarettes. One of the rare kind."  
+    "English": "A small vintage pack of Lucky Strike cigarettes. One of the rare kind.",
+	  "Italian": "Un piccolo pacchetto vintage di sigarette Lucky Strike. Una dei rari tipi."
   }, 
    "GAMEPLAY_CigarettePackHappiness": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+	   "Italian": "Pacchetto di sigarette"
   },
   "GAMEPLAY_CigarettePackHappinessDescription": {
-    "English": "A pack of Double Happiness cigarettes."  
+    "English": "A pack of Double Happiness cigarettes.",
+	  "Italian": "Un pacchetto di sigaretta Double Happiness."
   },
    "GAMEPLAY_CigarettePackMenthol": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+	   "Italian": "Pacchetto sigarette"
   },
   "GAMEPLAY_CigarettePackMentholDescription": {
-    "English": "A pack of Marlboro Menthol cigarettes."  
+    "English": "A pack of Marlboro Menthol cigarettes.",
+	  "Italian": "Un pacchetto di sigarette Marlboro Menthol."
   },
    "GAMEPLAY_Lighter": {
-    "English": "Lighter"
+    "English": "Lighter",
+	   "Italian": "Accendino"
   },
   "GAMEPLAY_LighterDescription": {
-    "English": "A small flint lighter. Doesn't work, but still contains some fuel."  
+    "English": "A small flint lighter. Doesn't work, but still contains some fuel.",
+	  "Italian": "Un piccolo accendino a pietra focaia. Non funziona, ma contiene ancora un po' di carburante."
   },      
 }
